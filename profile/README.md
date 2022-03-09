@@ -1,14 +1,21 @@
-## Hi there 👋
 
-<!--
+# Greetings, devs! 👋
 
-**Here are some ideas to get you started:**
+This is inplayo.com organisation projects codebase!
+
+Here you can find all access needed for entering dev portal,
+where you can view/manage projects.
+## Links
+
+[https://dev.inplayo.com](https://dev.inplayo.com)
+#### Site Access
+```bash
+  user: inplayo-dev
+  pass: dev.Dev-inplayo!2022.
+```
 
 
+## 🔗 Contacts
+[![Homepage](https://img.shields.io/badge/homepage-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://inplayo.com/)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
