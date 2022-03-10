@@ -1,5 +1,5 @@
 
-# Greetings, devs!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Greetings, devs! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 
 This is inplayo.com organisation projects codebase!
