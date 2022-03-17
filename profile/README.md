@@ -18,5 +18,3 @@ where you can view/manage projects.
 
 ## 🔗 Contacts
 [![Homepage](https://img.shields.io/badge/homepage-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://inplayo.com/)
-
-
