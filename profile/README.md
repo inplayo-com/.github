@@ -6,14 +6,6 @@ This is inplayo.com organisation projects codebase!
 
 Here you can find all access needed for entering dev portal,
 where you can view/manage projects.
-## Links
-
-[https://dev.inplayo.com](https://dev.inplayo.com)
-#### Site Access
-```bash
-  user: inplayo-dev
-  pass: dev.Dev-inplayo!2022.
-```
 
 
 ## 🔗 Contacts
